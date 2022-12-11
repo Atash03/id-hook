@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/id-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/id-hook/static/js/main.93d5e828.js",
+    "index.html": "/id-hook/index.html",
+    "main.e6c13ad2.css.map": "/id-hook/static/css/main.e6c13ad2.css.map",
+    "main.93d5e828.js.map": "/id-hook/static/js/main.93d5e828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.93d5e828.js"
+  ]
+}
